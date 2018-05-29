@@ -2,6 +2,7 @@
 // node_modules\.bin\webpack --display-error-details
 // npm run build
 // npm run watch
+// npm run server
 module.exports = {
     mode: 'development',
     entry: './index.js',
