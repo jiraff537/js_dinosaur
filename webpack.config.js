@@ -1,5 +1,7 @@
 // webpack.config.js
 // node_modules\.bin\webpack --display-error-details
+// npm run build
+// npm run watch
 module.exports = {
     mode: 'development',
     entry: './index.js',
